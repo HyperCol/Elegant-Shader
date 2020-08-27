@@ -70,3 +70,6 @@ This shader is based on GLSL!
 #define .stz .xyz
 #define .st .xy
 #endif
+
+//Use bridge to support specific environment
+#include "/ElegantLib/Bridge.inc"
