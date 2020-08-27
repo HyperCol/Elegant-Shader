@@ -72,4 +72,4 @@ This shader is based on GLSL!
 #endif
 
 //Use bridge to support specific environment
-#include "/ElegantLib/Bridge.inc"
+#include "/ElegantLib/Bridge/Bridge.inc"
