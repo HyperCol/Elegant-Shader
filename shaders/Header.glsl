@@ -2,9 +2,9 @@
 #define Header_Enabled
 
 //World type
-#define Type_world0  0
-#define Type_world_1 1
-#define Type_world1  2
+#define World_world0  0
+#define World_world_1 1
+#define World_world1  2
 
 //Shader Function
 #define gb_basic
