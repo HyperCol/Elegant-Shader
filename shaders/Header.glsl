@@ -1,12 +1,12 @@
 #ifndef Header_Enabled
 #define Header_Enabled
 
-//World type
+//World type [World_Type]
 #define World_world0  0
 #define World_world_1 1
 #define World_world1  2
 
-//Shader Function
+//Shader Function [Shader_Func]
 #define gb_basic
 #define gb_textured
 #define gb_textured_lit
@@ -49,7 +49,7 @@
 #define ShaderFunc_final
 #define ShaderFunc_shadow
 
-//Shader type
+//Shader type [Shader_Type]
 #define Shader_Frag
 #define Shader_Vert
 #define Shader_Geom
